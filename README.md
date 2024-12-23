@@ -1,2 +1,2 @@
 # grubimage
-images owned by Tolkien Estate, icons from x4121/grub-gruvbox/ and font awesome
+images owned by Tolkien Estate, icons from logowiki and creazilla
